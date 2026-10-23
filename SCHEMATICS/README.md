@@ -1,1 +1,1 @@
-Hardware selection; Circuit schematics go here
+Circuit schematics go here
